@@ -57,7 +57,7 @@ Ben [Full-Stack Developer]. [3] yıllık tecrübemle, [web tasarımı] üzerine 
 ## 🔗 Sosyal Medya ve İletişim
 
 <p align="center">
-  <a href="www.linkedin.com/in/emre-çanacık-864272389" target="_blank">
+  <a href="[www.linkedin.com/in/emre-çanacık-864272389](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="WEBSITENIZIN_LINKI" target="_blank">
