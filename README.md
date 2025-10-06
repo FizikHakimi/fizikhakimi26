@@ -22,7 +22,6 @@ Ben [Full-Stack Developer]. [3] yıllık tecrübemle, [web tasarımı] üzerine 
 
 ## 🛠️ Kullandığım Başlıca Teknolojiler ve Araçlar
 
-Bu bölümde, kullandığınız teknolojileri **renkli rozetler (shields.io)** ile göstermek sayfanıza profesyonel ve estetik bir görünüm katacaktır.
 
 ### Diller & Frameworkler
 <p>
@@ -37,7 +36,6 @@ Bu bölümde, kullandığınız teknolojileri **renkli rozetler (shields.io)** i
 ### Veritabanları & DevOps
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -46,8 +44,6 @@ Bu bölümde, kullandığınız teknolojileri **renkli rozetler (shields.io)** i
 ---
 
 ## 📊 GitHub İstatistiklerim (Opsiyonel)
-
-GitHub aktivitelerinizi ve popüler repolarınızı gösteren bu kartlar sayfanıza dinamik bir hava katar. **[GITHUB KULLANICI ADINIZ]** kısmını kendi kullanıcı adınızla değiştirin.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FizikHakimi&show_icons=true&theme=vue&hide_border=true" alt="GitHub İstatistikleri" />
@@ -61,11 +57,8 @@ GitHub aktivitelerinizi ve popüler repolarınızı gösteren bu kartlar sayfan�
 ## 🔗 Sosyal Medya ve İletişim
 
 <p align="center">
-  <a href="LINKEDIN_PROFIL_LINKINIZ" target="_blank">
+  <a href="www.linkedin.com/in/emre-çanacık-864272389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="TWITTER_PROFIL_LINKINIZ" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="WEBSITENIZIN_LINKI" target="_blank">
     <img src="https://img.shields.io/badge/Website-5A2385?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Sitesi" />
