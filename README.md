@@ -1,22 +1,20 @@
 # fizikhakimi26
 
 <div align="center">
-  <img src="PROFIL_FOTONUZUN_LINKI" alt="Profil Fotoğrafı" width="150" style="border-radius: 50%;">
-  <h1>Merhaba, ben [ADINIZ SOYADINIZ] 👋</h1>
+  <h1>Merhaba, ben [EMRE ÇANACIK] 👋</h1>
 </div>
 
 ---
 
 ## 💻 Hakkımda
 
-📢 **[KISA VE ÇEKİCİ BİR SLOGAN VEYA TANITIM CÜMLESİ]**
+📢 **[Temiz kod. Hızlı teslimat. Güçlü çözümler.]**
 
-Ben [ALANINIZ, örn: Full-Stack Developer, Veri Bilimcisi, UX/UI Tasarımcısı]. [KAÇ YIL] yıllık tecrübemle, [ÖZEL BECERİNİZİ/ODAK NOKTANIZI] üzerine tutkuyla projeler geliştiriyorum.
+Ben [Full-Stack Developer]. [3] yıllık tecrübemle, [web tasarımı] üzerine tutkuyla projeler geliştiriyorum.
 
-- 🌱 Şu anda [ÖĞRENDİĞİNİZ YENİ TEKNOLOJİ] öğreniyorum.
-- 💡 [PROJE TİPİ, örn: Açık kaynak projelere, yeni girişimlere] katkıda bulunmaya her zaman açığım.
-- 🎯 Kariyer hedefim: [KISA BİR HEDEF CÜMLESİ, örn: Yapay zeka ile kullanıcı deneyimini iyileştirmek.]
-- 📫 Bana ulaşın: **[E-POSTA ADRESİNİZ]**
+- 🌱 Şu anda [HTML, PYTHON] öğreniyorum.
+- 🎯 Kariyer hedefim: [kendi alanımda gelişmek.]
+- 📫 Bana ulaşın: **[acanacik21@gmail.com]**
 
 <br>
 
@@ -52,8 +50,8 @@ Bu bölümde, kullandığınız teknolojileri **renkli rozetler (shields.io)** i
 GitHub aktivitelerinizi ve popüler repolarınızı gösteren bu kartlar sayfanıza dinamik bir hava katar. **[GITHUB KULLANICI ADINIZ]** kısmını kendi kullanıcı adınızla değiştirin.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADINIZ&show_icons=true&theme=vue&hide_border=true" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADINIZ&layout=compact&theme=vue&hide_border=true" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FizikHakimi&show_icons=true&theme=vue&hide_border=true" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FizikHakimi&layout=compact&theme=vue&hide_border=true" alt="En Çok Kullanılan Diller" />
 </p>
 
 <br>
@@ -79,5 +77,5 @@ GitHub aktivitelerinizi ve popüler repolarınızı gösteren bu kartlar sayfan�
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADINIZ&color=blue" alt="Profil Ziyaretçi Sayısı" />
+  <img src="https://komarev.com/ghpvc/?username=FizikHakimi&color=blue" alt="Profil Ziyaretçi Sayısı" />
 </div>
